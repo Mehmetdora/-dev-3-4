@@ -1,0 +1,24 @@
+
+/* Class = "UIButton"; configuration.title = "Başla"; ObjectID = "4GC-DB-Mng"; */
+"4GC-DB-Mng.configuration.title" = "Başla";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "4GC-DB-Mng"; */
+"4GC-DB-Mng.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Geç"; ObjectID = "RtO-4E-XyN"; */
+"RtO-4E-XyN.configuration.title" = "Geç";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "RtO-4E-XyN"; */
+"RtO-4E-XyN.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Buzdolabını doldurmanın en  pratik , ucuz ve hızlı uygulaması"; ObjectID = "SkK-AK-dEq"; */
+"SkK-AK-dEq.text" = "Buzdolabını doldurmanın en  pratik , ucuz ve hızlı uygulaması";
+
+/* Class = "UIButton"; configuration.title = "Geri"; ObjectID = "lVk-gt-XY5"; */
+"lVk-gt-XY5.configuration.title" = "Geri";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "lVk-gt-XY5"; */
+"lVk-gt-XY5.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Bütçene göre istediğin ürün anında kapında"; ObjectID = "mBz-vh-w17"; */
+"mBz-vh-w17.text" = "Bütçene göre istediğin ürün anında kapında";
